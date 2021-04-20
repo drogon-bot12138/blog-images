@@ -1,1 +1,1 @@
-# blog-images floder
+# blog-images folder
